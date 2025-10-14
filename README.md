@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a final year information science engineering undergrad
+SDE Intern
 
 
 ## 🌐 Socials:
