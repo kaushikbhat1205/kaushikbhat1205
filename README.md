@@ -1,5 +1,5 @@
 # 💫 About Me:
-SDE Intern
+Full Stack Engineer
 
 
 ## 🌐 Socials:
